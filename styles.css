@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 
   /* Highlight on mouse hover */
   .highlighted-link:hover {
-    background-color: #fde047; /* Brighter yellow */
+    background-color: #e6ffcc; /* Brighter green */
   }
 
 
