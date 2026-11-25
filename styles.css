@@ -63,14 +63,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-style: normal;
 }
-
 .content-wrapper {
     flex: 1;
     display: flex;
     flex-direction: column;
-}
-
-    .clock-container {
+}    .clock-container {
       background: #1e293b;
       padding: 0.5rem 0.5rem;
       border-radius: 1px;
@@ -78,14 +75,14 @@ h1, h2, h3, h4, h5, h6 {
       text-align: center;
          }
 
-    #clock {
+    clock {
       font-size: 1.5rem;
       font-weight: bold;
       color: #38bdf8;
       letter-spacing:0.5px;
     }
 
-    #date {
+    date {
       margin-top: 0.5rem;
       font-size: 1.0rem;
       color: orange;
